@@ -1,0 +1,6 @@
+model_checkpoint_path: "model.cpkt-19000"
+all_model_checkpoint_paths: "model.cpkt-15000"
+all_model_checkpoint_paths: "model.cpkt-16000"
+all_model_checkpoint_paths: "model.cpkt-17000"
+all_model_checkpoint_paths: "model.cpkt-18000"
+all_model_checkpoint_paths: "model.cpkt-19000"
